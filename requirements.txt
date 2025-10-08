@@ -1,6 +1,8 @@
 # data handling
 numpy
 pandas
+openpyxl
+pdfplumber
 
 # packaging
 setuptools>=41.4.0
